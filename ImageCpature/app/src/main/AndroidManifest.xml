@@ -3,10 +3,8 @@
     package="com.superb20.imagecapture">
 
 
-
-    <uses-permission
-        android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <application
         android:allowBackup="true"
